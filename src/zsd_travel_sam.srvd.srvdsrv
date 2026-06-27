@@ -1,0 +1,6 @@
+@EndUserText.label: 'Travel Service Defination'
+define service ZSD_TRAVEL_SAM {
+  expose ZI_TRAVEL_SAM;
+  expose Zi_Customer_Sam;
+  expose ZI_AGENCY_SAM;
+}
